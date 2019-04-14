@@ -1,6 +1,6 @@
 # prereqs: iterators, hashes, conditional logic
 # Given a hash with numeric values, return the key for the smallest value
-name_hash = {:nissan => 300, :honda => 200, :chevy =>100}
+name_hash = {:blake => 10, :ashley => 50, :adam =>17}
 def key_for_min_value(name_hash)
 
 end
